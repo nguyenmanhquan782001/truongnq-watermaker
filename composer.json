@@ -1,0 +1,8 @@
+{
+    "name": "truongnq/php-watermarker",
+    "description": "An update of php-watermarker, this is not mine but now you can use it in laravel 5 :)",
+    "require": {
+        "php": "^5.6.37 || ^8.0"
+    },
+    "minimum-stability" : "dev"
+}
